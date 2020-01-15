@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tabi</string>
+    <string name="title_today">Today</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_journey">Journey</string>
+    <string name="title_explore">Dashboard</string>
+    <string name="title_profile">Journey</string>
+</resources>
