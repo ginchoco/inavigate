@@ -51,6 +51,7 @@ public class LoginActivity extends AppCompatActivity {
 
         getLoginDetails(loginButton);
     }
+
     protected void getLoginDetails(LoginButton loginButton){
         // Callback registration
         loginButton.registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
