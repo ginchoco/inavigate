@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "116447839898",
+    "firebase_url": "https://tabi-106.firebaseio.com",
+    "project_id": "tabi-106",
+    "storage_bucket": "tabi-106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116447839898:android:21a87573b5cca7fe418123",
+        "android_client_info": {
+          "package_name": "com.example.tabi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116447839898-obns5vlgpgenatcdf259us6960bflqh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC30rufl2EJ2kVDqHQNQD8sE-TVVDdXsWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116447839898-obns5vlgpgenatcdf259us6960bflqh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
